@@ -1,24 +1,186 @@
 {
-    "jobs": [
-      {
-        "id": 1,
-        "title": "Frontend Developer",
-        "company": "Tech Corp",
-        "salary": "60000€",
-        "location": "Remote",
-        "description": "Join our team as a Frontend Developer to build modern web applications.",
-        "applyLink": "https://www.linkedin.com/jobs/view/1"
-      },
-      {
-        "id": 2,
-        "title": "Backend Developer",
-        "company": "Code Inc",
-        "salary": "75000€",
-        "location": "On-site",
-        "description": "We are looking for a Backend Developer to work with scalable APIs and databases.",
-        "applyLink": "https://www.linkedin.com/jobs/view/2"
-      }
-    ],
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Frontend Developer",
+      "company": "Tech Corp",
+      "salary": "60000€",
+      "location": "Remote",
+      "description": "Join our team as a Frontend Developer to build modern web applications.",
+      "applyLink": "https://www.linkedin.com/jobs/view/1"
+    },
+    {
+      "id": 2,
+      "title": "Backend Developer",
+      "company": "Code Inc",
+      "salary": "75000€",
+      "location": "On-site",
+      "description": "We are looking for a Backend Developer to work with scalable APIs and databases.",
+      "applyLink": "https://www.linkedin.com/jobs/view/2"
+    },
+    {
+      "id": 3,
+      "title": "Full Stack Developer",
+      "company": "Dev Solutions",
+      "salary": "70000€",
+      "location": "Hybrid",
+      "description": "Looking for a skilled Full Stack Developer with expertise in Vue.js and Node.js.",
+      "applyLink": "https://www.linkedin.com/jobs/view/3"
+    },
+    {
+      "id": 4,
+      "title": "UI/UX Designer",
+      "company": "DesignPro",
+      "salary": "55000€",
+      "location": "Remote",
+      "description": "Creative UI/UX designer needed to create engaging user experiences.",
+      "applyLink": "https://www.linkedin.com/jobs/view/4"
+    },
+    {
+      "id": 5,
+      "title": "Software Engineer",
+      "company": "Innovate Tech",
+      "salary": "80000€",
+      "location": "On-site",
+      "description": "Experienced software engineer required to develop cutting-edge solutions.",
+      "applyLink": "https://www.linkedin.com/jobs/view/5"
+    },
+    {
+      "id": 6,
+      "title": "Data Scientist",
+      "company": "AI Solutions",
+      "salary": "90000€",
+      "location": "Remote",
+      "description": "Passionate Data Scientist needed to work on machine learning projects.",
+      "applyLink": "https://www.linkedin.com/jobs/view/6"
+    },
+    {
+      "id": 7,
+      "title": "Graphic Designer",
+      "company": "Creative Agency",
+      "salary": "50000€",
+      "location": "Remote",
+      "description": "Talented Graphic Designer needed for branding and marketing materials.",
+      "applyLink": "https://www.linkedin.com/jobs/view/7"
+    },
+    {
+      "id": 8,
+      "title": "Marketing Specialist",
+      "company": "MarketPro",
+      "salary": "55000€",
+      "location": "Hybrid",
+      "description": "Experienced marketing specialist needed for digital campaigns and SEO.",
+      "applyLink": "https://www.linkedin.com/jobs/view/8"
+    },
+    {
+      "id": 9,
+      "title": "HR Manager",
+      "company": "People First",
+      "salary": "65000€",
+      "location": "On-site",
+      "description": "HR Manager needed to oversee recruitment and employee relations.",
+      "applyLink": "https://www.linkedin.com/jobs/view/9"
+    },
+    {
+      "id": 10,
+      "title": "Customer Support Representative",
+      "company": "SupportPlus",
+      "salary": "40000€",
+      "location": "Remote",
+      "description": "Customer support representative needed for live chat and email support.",
+      "applyLink": "https://www.linkedin.com/jobs/view/10"
+    },
+    {
+      "id": 11,
+      "title": "Business Analyst",
+      "company": "Biz Solutions",
+      "salary": "75000€",
+      "location": "Hybrid",
+      "description": "Business analyst needed to improve processes and drive efficiency.",
+      "applyLink": "https://www.linkedin.com/jobs/view/11"
+    },
+    {
+      "id": 12,
+      "title": "Social Media Manager",
+      "company": "SocialBuzz",
+      "salary": "50000€",
+      "location": "Remote",
+      "description": "Creative social media manager needed to engage with online audiences.",
+      "applyLink": "https://www.linkedin.com/jobs/view/12"
+    },
+    {
+      "id": 13,
+      "title": "Content Writer",
+      "company": "WriteNow",
+      "salary": "45000€",
+      "location": "Remote",
+      "description": "Content writer needed for blog posts, articles, and website content.",
+      "applyLink": "https://www.linkedin.com/jobs/view/13"
+    },
+    {
+      "id": 14,
+      "title": "DevOps Engineer",
+      "company": "CloudTech",
+      "salary": "85000€",
+      "location": "On-site",
+      "description": "DevOps engineer needed for cloud infrastructure management.",
+      "applyLink": "https://www.linkedin.com/jobs/view/14"
+    },
+    {
+      "id": 15,
+      "title": "Financial Analyst",
+      "company": "FinancePro",
+      "salary": "70000€",
+      "location": "Hybrid",
+      "description": "Financial analyst needed for forecasting and budgeting.",
+      "applyLink": "https://www.linkedin.com/jobs/view/15"
+    },
+    {
+      "id": 16,
+      "title": "Cybersecurity Analyst",
+      "company": "SecureIT",
+      "salary": "90000€",
+      "location": "Remote",
+      "description": "Cybersecurity analyst needed to prevent and mitigate security threats.",
+      "applyLink": "https://www.linkedin.com/jobs/view/16"
+    },
+    {
+      "id": 17,
+      "title": "SEO Specialist",
+      "company": "SEO Experts",
+      "salary": "55000€",
+      "location": "Remote",
+      "description": "SEO specialist needed to optimize website rankings and traffic.",
+      "applyLink": "https://www.linkedin.com/jobs/view/17"
+    },
+    {
+      "id": 18,
+      "title": "Operations Manager",
+      "company": "LogiCo",
+      "salary": "75000€",
+      "location": "On-site",
+      "description": "Operations manager needed to oversee logistics and workflow optimization.",
+      "applyLink": "https://www.linkedin.com/jobs/view/18"
+    },
+    {
+      "id": 19,
+      "title": "Product Manager",
+      "company": "Innovate Solutions",
+      "salary": "95000€",
+      "location": "Hybrid",
+      "description": "Product manager needed to drive product vision and execution.",
+      "applyLink": "https://www.linkedin.com/jobs/view/19"
+    },
+    {
+      "id": 20,
+      "title": "Mobile App Developer",
+      "company": "AppMasters",
+      "salary": "85000€",
+      "location": "Remote",
+      "description": "Mobile developer needed for Android and iOS applications.",
+      "applyLink": "https://www.linkedin.com/jobs/view/20"
+    }
+  ],
     "users": [
       {
         "id": 1,
