@@ -1,226 +1,226 @@
 {
-  "jobs": [
-    {
-      "id": 1,
-      "title": "Frontend Developer",
-      "company": "Tech Corp",
-      "salary": "60000€",
-      "location": "Remote",
-      "industry": "IT",
-      "experienceLevel": "Mid",
-      "description": "Join our team as a Frontend Developer to build modern web applications.",
-      "applyLink": "https://www.linkedin.com/jobs/view/1"
-    },
-    {
-      "id": 2,
-      "title": "Backend Developer",
-      "company": "Code Inc",
-      "salary": "75000€",
-      "location": "On-site",
-      "industry": "IT",
-      "experienceLevel": "Senior",
-      "description": "We are looking for a Backend Developer to work with scalable APIs and databases.",
-      "applyLink": "https://www.linkedin.com/jobs/view/2"
-    },
-    {
-      "id": 3,
-      "title": "UI/UX Designer",
-      "company": "DesignPro",
-      "salary": "55000€",
-      "location": "Remote",
-      "industry": "Design",
-      "experienceLevel": "Entry",
-      "description": "Creative UI/UX designer needed to create engaging user experiences.",
-      "applyLink": "https://www.linkedin.com/jobs/view/3"
-    },
-    {
-      "id": 4,
-      "title": "Marketing Manager",
-      "company": "BrandWave",
-      "salary": "80000€",
-      "location": "On-site",
-      "industry": "Marketing",
-      "experienceLevel": "Senior",
-      "description": "Lead marketing strategies and campaigns for a fast-growing company.",
-      "applyLink": "https://www.linkedin.com/jobs/view/4"
-    },
-    {
-      "id": 5,
-      "title": "Financial Analyst",
-      "company": "FinancePro",
-      "salary": "70000€",
-      "location": "Remote",
-      "industry": "Finance",
-      "experienceLevel": "Mid",
-      "description": "Analyze financial data and create reports to support business decisions.",
-      "applyLink": "https://www.linkedin.com/jobs/view/5"
-    },
-    {
-      "id": 6,
-      "title": "HR Manager",
-      "company": "People Solutions",
-      "salary": "65000€",
-      "location": "On-site",
-      "industry": "HR",
-      "experienceLevel": "Senior",
-      "description": "Manage recruitment and employee relations for a dynamic company.",
-      "applyLink": "https://www.linkedin.com/jobs/view/6"
-    },
-    {
-      "id": 7,
-      "title": "Sales Executive",
-      "company": "SellWell",
-      "salary": "72000€",
-      "location": "Remote",
-      "industry": "Sales",
-      "experienceLevel": "Mid",
-      "description": "Develop sales strategies and build client relationships.",
-      "applyLink": "https://www.linkedin.com/jobs/view/7"
-    },
-    {
-      "id": 8,
-      "title": "DevOps Engineer",
-      "company": "CloudX",
-      "salary": "90000€",
-      "location": "On-site",
-      "industry": "IT",
-      "experienceLevel": "Senior",
-      "description": "Ensure smooth CI/CD pipelines and system reliability.",
-      "applyLink": "https://www.linkedin.com/jobs/view/8"
-    },
-    {
-      "id": 9,
-      "title": "Content Writer",
-      "company": "WritePro",
-      "salary": "50000€",
-      "location": "Remote",
-      "industry": "Marketing",
-      "experienceLevel": "Entry",
-      "description": "Create compelling content for blogs, social media, and websites.",
-      "applyLink": "https://www.linkedin.com/jobs/view/9"
-    },
-    {
-      "id": 10,
-      "title": "Cybersecurity Analyst",
-      "company": "SecureNet",
-      "salary": "85000€",
-      "location": "On-site",
-      "industry": "IT",
-      "experienceLevel": "Mid",
-      "description": "Protect company data and infrastructure from cyber threats.",
-      "applyLink": "https://www.linkedin.com/jobs/view/10"
-    },
-    {
-      "id": 11,
-      "title": "Graphic Designer",
-      "company": "Creatix",
-      "salary": "57000€",
-      "location": "Remote",
-      "industry": "Design",
-      "experienceLevel": "Entry",
-      "description": "Design eye-catching visuals for digital and print media.",
-      "applyLink": "https://www.linkedin.com/jobs/view/11"
-    },
-    {
-      "id": 12,
-      "title": "Social Media Manager",
-      "company": "SocialPro",
-      "salary": "62000€",
-      "location": "On-site",
-      "industry": "Marketing",
-      "experienceLevel": "Mid",
-      "description": "Manage and grow social media presence across platforms.",
-      "applyLink": "https://www.linkedin.com/jobs/view/12"
-    },
-    {
-      "id": 13,
-      "title": "Accountant",
-      "company": "Numbers Inc",
-      "salary": "65000€",
-      "location": "Remote",
-      "industry": "Finance",
-      "experienceLevel": "Mid",
-      "description": "Handle financial records, tax filings, and budgeting.",
-      "applyLink": "https://www.linkedin.com/jobs/view/13"
-    },
-    {
-      "id": 14,
-      "title": "Recruiter",
-      "company": "TalentSearch",
-      "salary": "58000€",
-      "location": "On-site",
-      "industry": "HR",
-      "experienceLevel": "Entry",
-      "description": "Find and hire top talent for growing companies.",
-      "applyLink": "https://www.linkedin.com/jobs/view/14"
-    },
-    {
-      "id": 15,
-      "title": "Machine Learning Engineer",
-      "company": "AI Labs",
-      "salary": "100000€",
-      "location": "Remote",
-      "industry": "IT",
-      "experienceLevel": "Senior",
-      "description": "Develop AI models to solve complex business problems.",
-      "applyLink": "https://www.linkedin.com/jobs/view/15"
-    },
-    {
-      "id": 16,
-      "title": "Legal Advisor",
-      "company": "LawExperts",
-      "salary": "90000€",
-      "location": "On-site",
-      "industry": "Finance",
-      "experienceLevel": "Senior",
-      "description": "Provide legal advice and ensure regulatory compliance.",
-      "applyLink": "https://www.linkedin.com/jobs/view/16"
-    },
-    {
-      "id": 17,
-      "title": "Pharmacist",
-      "company": "MediCare",
-      "salary": "70000€",
-      "location": "Remote",
-      "industry": "Healthcare",
-      "experienceLevel": "Mid",
-      "description": "Provide pharmaceutical care and guidance to patients.",
-      "applyLink": "https://www.linkedin.com/jobs/view/17"
-    },
-    {
-      "id": 18,
-      "title": "Video Editor",
-      "company": "MediaHouse",
-      "salary": "52000€",
-      "location": "On-site",
-      "industry": "Design",
-      "experienceLevel": "Entry",
-      "description": "Edit and produce high-quality videos for various projects.",
-      "applyLink": "https://www.linkedin.com/jobs/view/18"
-    }
-    {
-      "id": 19,
-      "title": "E-commerce Specialist",
-      "company": "ShopTech",
-      "salary": "68000€",
-      "location": "Remote",
-      "industry": "Marketing",
-      "experienceLevel": "Mid",
-      "description": "Optimize e-commerce strategies and improve online sales performance.",
-      "applyLink": "https://www.linkedin.com/jobs/view/19"
-    },
-    {
-      "id": 20,
-      "title": "Customer Support Specialist",
-      "company": "SupportPro",
-      "salary": "45000€",
-      "location": "On-site",
-      "industry": "Sales",
-      "experienceLevel": "Entry",
-      "description": "Assist customers and resolve inquiries with excellent communication skills.",
-      "applyLink": "https://www.linkedin.com/jobs/view/20"
-    }
-  ],
+    "jobs": [
+        {
+          "id": 1,
+          "title": "Frontend Developer",
+          "company": "Tech Corp",
+          "salary": "60000€",
+          "location": "Remote",
+          "industry": "IT",
+          "experience": "Mid-Level",
+          "description": "Join our team as a Frontend Developer to build modern web applications.",
+          "applyLink": "https://www.linkedin.com/jobs/view/1"
+        },
+        {
+          "id": 2,
+          "title": "Marketing Manager",
+          "company": "BrandBoost",
+          "salary": "65000€",
+          "location": "On-site",
+          "industry": "Marketing",
+          "experience": "Senior",
+          "description": "We are looking for a Marketing Manager to lead our digital campaigns.",
+          "applyLink": "https://www.linkedin.com/jobs/view/2"
+        },
+        {
+          "id": 3,
+          "title": "Financial Analyst",
+          "company": "Finance Solutions",
+          "salary": "70000€",
+          "location": "Remote",
+          "industry": "Finance",
+          "experience": "Mid-Level",
+          "description": "Analyze financial data and provide business recommendations.",
+          "applyLink": "https://www.linkedin.com/jobs/view/3"
+        },
+        {
+          "id": 4,
+          "title": "Sales Representative",
+          "company": "SalesPro",
+          "salary": "50000€",
+          "location": "On-site",
+          "industry": "Sales",
+          "experience": "Junior",
+          "description": "Seeking a results-driven Sales Representative to actively engage customers.",
+          "applyLink": "https://www.linkedin.com/jobs/view/4"
+        },
+        {
+          "id": 5,
+          "title": "Graphic Designer",
+          "company": "Creative Studio",
+          "salary": "55000€",
+          "location": "Remote",
+          "industry": "Design",
+          "experience": "Mid-Level",
+          "description": "We need a talented Graphic Designer to create visuals for our campaigns.",
+          "applyLink": "https://www.linkedin.com/jobs/view/5"
+        },
+        {
+          "id": 6,
+          "title": "Backend Developer",
+          "company": "Code Inc",
+          "salary": "75000€",
+          "location": "On-site",
+          "industry": "IT",
+          "experience": "Senior",
+          "description": "We are looking for a Backend Developer to work with scalable APIs and databases.",
+          "applyLink": "https://www.linkedin.com/jobs/view/6"
+        },
+        {
+          "id": 7,
+          "title": "SEO Specialist",
+          "company": "WebRank",
+          "salary": "60000€",
+          "location": "Remote",
+          "industry": "Marketing",
+          "experience": "Mid-Level",
+          "description": "Optimize websites for search engines to increase organic traffic.",
+          "applyLink": "https://www.linkedin.com/jobs/view/7"
+        },
+        {
+          "id": 8,
+          "title": "Financial Consultant",
+          "company": "Money Matters",
+          "salary": "85000€",
+          "location": "On-site",
+          "industry": "Finance",
+          "experience": "Senior",
+          "description": "Provide financial advice and solutions to corporate clients.",
+          "applyLink": "https://www.linkedin.com/jobs/view/8"
+        },
+        {
+          "id": 9,
+          "title": "Account Executive",
+          "company": "B2B Solutions",
+          "salary": "65000€",
+          "location": "Remote",
+          "industry": "Sales",
+          "experience": "Mid-Level",
+          "description": "Manage client relationships and drive new business growth.",
+          "applyLink": "https://www.linkedin.com/jobs/view/9"
+        },
+        {
+          "id": 10,
+          "title": "UI/UX Designer",
+          "company": "DesignPro",
+          "salary": "55000€",
+          "location": "Remote",
+          "industry": "Design",
+          "experience": "Junior",
+          "description": "Creative UI/UX designer needed to create engaging user experiences.",
+          "applyLink": "https://www.linkedin.com/jobs/view/10"
+        },
+        {
+          "id": 11,
+          "title": "Full Stack Developer",
+          "company": "Dev Solutions",
+          "salary": "70000€",
+          "location": "On-site",
+          "industry": "IT",
+          "experience": "Junior",
+          "description": "Looking for a skilled Full Stack Developer with expertise in Vue.js and Node.js.",
+          "applyLink": "https://www.linkedin.com/jobs/view/11"
+        },
+        {
+          "id": 12,
+          "title": "Content Strategist",
+          "company": "Content Masters",
+          "salary": "62000€",
+          "location": "Remote",
+          "industry": "Marketing",
+          "experience": "Mid-Level",
+          "description": "Develop and execute content strategies for multiple platforms.",
+          "applyLink": "https://www.linkedin.com/jobs/view/12"
+        },
+        {
+          "id": 13,
+          "title": "Investment Analyst",
+          "company": "Wall Street Advisors",
+          "salary": "90000€",
+          "location": "On-site",
+          "industry": "Finance",
+          "experience": "Senior",
+          "description": "Analyze investment opportunities and portfolio strategies.",
+          "applyLink": "https://www.linkedin.com/jobs/view/13"
+        },
+        {
+          "id": 14,
+          "title": "Regional Sales Manager",
+          "company": "Global Trade",
+          "salary": "78000€",
+          "location": "Remote",
+          "industry": "Sales",
+          "experience": "Mid-Level",
+          "description": "Lead and manage a regional sales team to exceed targets.",
+          "applyLink": "https://www.linkedin.com/jobs/view/14"
+        },
+        {
+          "id": 15,
+          "title": "Illustrator",
+          "company": "ArtVision",
+          "salary": "60000€",
+          "location": "On-site",
+          "industry": "Design",
+          "experience": "Senior",
+          "description": "Create unique illustrations for commercial and editorial projects.",
+          "applyLink": "https://www.linkedin.com/jobs/view/15"
+        },
+        {
+          "id": 16,
+          "title": "Software Engineer",
+          "company": "Innovate Tech",
+          "salary": "80000€",
+          "location": "Remote",
+          "industry": "IT",
+          "experience": "Mid-Level",
+          "description": "Experienced software engineer required to develop cutting-edge solutions.",
+          "applyLink": "https://www.linkedin.com/jobs/view/16"
+        },
+        {
+          "id": 17,
+          "title": "Social Media Manager",
+          "company": "Influence Digital",
+          "salary": "65000€",
+          "location": "On-site",
+          "industry": "Marketing",
+          "experience": "Senior",
+          "description": "Manage and grow social media channels for major brands.",
+          "applyLink": "https://www.linkedin.com/jobs/view/17"
+        },
+        {
+          "id": 18,
+          "title": "Tax Accountant",
+          "company": "Tax Solutions",
+          "salary": "75000€",
+          "location": "Remote",
+          "industry": "Finance",
+          "experience": "Mid-Level",
+          "description": "Prepare and file tax returns for corporate clients.",
+          "applyLink": "https://www.linkedin.com/jobs/view/18"
+        },
+        {
+          "id": 19,
+          "title": "Sales Associate",
+          "company": "Retail Empire",
+          "salary": "45000€",
+          "location": "On-site",
+          "industry": "Sales",
+          "experience": "Junior",
+          "description": "Engage with customers and provide product recommendations.",
+          "applyLink": "https://www.linkedin.com/jobs/view/19"
+        },
+        {
+          "id": 20,
+          "title": "Motion Graphics Designer",
+          "company": "Visual Effects",
+          "salary": "72000€",
+          "location": "Remote",
+          "industry": "Design",
+          "experience": "Mid-Level",
+          "description": "Design dynamic motion graphics for video production.",
+          "applyLink": "https://www.linkedin.com/jobs/view/20"
+        }
+      ],      
     "users": [
       {
         "id": 1,
